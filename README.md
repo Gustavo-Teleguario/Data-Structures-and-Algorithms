@@ -1,0 +1,2 @@
+# Algorithmen-und-Datenstrukturen
+Learning a basic abstract data types of computer science, efficient data structures for their implementation as well as efficient graph and optimization algorithms. learning how to implement such algorithms and data structures in Java and therefore first familiarize yourself with the language and its object-oriented concepts. the Interested deepen their skills in asymptotic runtime analysis and acquire additional skills in the evaluation of algorithms.
