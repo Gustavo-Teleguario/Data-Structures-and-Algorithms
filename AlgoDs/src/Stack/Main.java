@@ -1,11 +1,9 @@
 package Stack;
 
-import java.util.Stack;
-
 public class Main {
     public static void main(String... args) throws MyException {
 
-        // Example for Stack
+        // Example for Stack max default size 10.
         StackArray stack = new StackArray();
         System.out.println("Is Stack Empty? " + stack.empty());
         System.out.println("Stack size: " + stack.getSize());

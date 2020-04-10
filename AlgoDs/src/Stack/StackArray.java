@@ -1,7 +1,12 @@
 package Stack;
 
-import java.lang.reflect.Array;
-
+/**
+ * Created by Maynor Gustavo Teleguario Queche
+ * University of Kassel Germany
+ * Algorithms and Data Structures
+ *
+ * @date 10.04.2020
+ */
 public class StackArray {
 
     /**
