@@ -3,7 +3,6 @@ import java.util.ArrayList;
 
 public class Main {
     public static void main(String[]args){
-
         ArrayList myList = new ArrayList<>();
         MyArrayList list2 = new MyArrayList(5);
         MyArrayList list = new MyArrayList(5);
