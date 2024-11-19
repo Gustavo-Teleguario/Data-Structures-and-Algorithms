@@ -18,7 +18,7 @@ public class ArraysAndStrings {
 
 
     public static boolean isUniqueString(String argument) {
-        //First important thing ist to ask about if a string argument is an ASCII- or Unicode string
+        //First important thing ist to ask your self about, if a string argument is an ASCII- or Unicode string
         if (argument.length() > 128) return false;
 
         char[] chars = argument.toCharArray();
