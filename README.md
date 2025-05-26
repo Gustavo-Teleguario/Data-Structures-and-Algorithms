@@ -32,11 +32,9 @@ This project focuses on understanding and implementing:
 - **Recursion:** Recursive problem-solving techniques
 
 ### Software Development Skills
+- **Object-Oriented Programming:** Classes, Objects, Inheritance, Polymorphism
 - **Git Workflow:** Branching, merging, commit best practices
 - **Code Organization:** Clean project structure and modularity
-- **Documentation:** Clear README files and code comments
-- **Testing:** Basic unit testing approaches
-
 ---
 
 ## 🗂️ Project Structure
