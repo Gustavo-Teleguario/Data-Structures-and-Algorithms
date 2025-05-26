@@ -35,32 +35,8 @@ This project focuses on understanding and implementing:
 - **Object-Oriented Programming:** Classes, Objects, Inheritance, Polymorphism
 - **Git Workflow:** Branching, merging, commit best practices
 - **Code Organization:** Clean project structure and modularity
+  
 ---
-
-## 🗂️ Project Structure
-
-```
-AlgoDS/
-├── data-structures/
-│   ├── arrays/
-│   ├── linked-lists/
-│   ├── stacks-queues/
-│   ├── trees/
-│   └── hash-tables/
-├── algorithms/
-│   ├── sorting/
-│   ├── searching/
-│   ├── graph-algorithms/
-│   └── dynamic-programming/
-├── tests/
-│   └── unit-tests/
-├── docs/
-│   └── implementation-notes/
-└── README.md
-```
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
