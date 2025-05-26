@@ -64,7 +64,7 @@ AlgoDS/
 ## 🚀 Getting Started
 
 ### Prerequisites
-- Programming language of choice (Python/Java/C++/JavaScript)
+- Java Development Kit (JDK) 8 or higher
 - Git installed on your system
 - Basic understanding of programming concepts
 
