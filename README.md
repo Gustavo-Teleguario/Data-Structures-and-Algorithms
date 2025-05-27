@@ -38,7 +38,7 @@ This project focuses on understanding and implementing:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/YOUR_USERNAME/repository-name.git
-   cd AlgoDS
+   cd repository-name
    ```
 
 2. **Explore the implementations:**
