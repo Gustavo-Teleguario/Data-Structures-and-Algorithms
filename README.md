@@ -1,16 +1,6 @@
-# AlgoDS - Data Structures & Algorithms Practice
+📚 Overview
 
----
-
-## 📚 Overview
-
-**AlgoDS** is a comprehensive collection of fundamental **Data Structures and Algorithms** implementations, designed as a hands-on learning project. This repository serves as both a practice ground for mastering essential CS concepts and a demonstration of proper software development practices.
-
-**Main Goals:**
-- Master core data structures and algorithmic concepts through implementation
-- Practice **Git version control** workflows and best practices  
-- Develop clean, well-documented code structure
-- Build a solid foundation for technical interviews and advanced programming
+This repository, Algorithms & Data Structures, is my personal workspace for learning and quickly testing fundamental computer science concepts. While primarily built for my own practice, feel free to use it if it helps you too! It's designed to strengthen understanding of both Git version control and core algorithms and data structures in Java.
 
 ---
 
@@ -47,14 +37,13 @@ This project focuses on understanding and implementing:
 ### Setup
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/AlgoDS.git
+   git clone https://github.com/YOUR_USERNAME/repository-name.git
    cd AlgoDS
    ```
 
 2. **Explore the implementations:**
    - Browse through different data structure folders
-   - Run individual algorithm implementations
-   - Study the code comments and documentation
+   - Run individual java classes (Main) in each folder
 
 3. **Practice with Git:**
    - Create feature branches for new implementations
@@ -78,6 +67,3 @@ This is a personal learning project, but feel free to:
 - Share alternative implementations
 - Provide feedback on code structure
 
----
-
-**Built with 💻 and ☕ - A journey through the fundamentals of Computer Science!**
